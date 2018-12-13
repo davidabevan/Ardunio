@@ -1,0 +1,25 @@
+{
+"name": "Clock",
+"frameworks": "Arduino",
+"keywords": "Time, date, hour, minute, second, day, week, month, year, millisecond",
+"description": "Time keeping library",
+"url": "https://github.com/ddrown/Arduino_Clock",
+"authors":
+[
+{
+        "name": "Michael Margolis"
+},
+{
+        "name": "Paul Stoffregen"
+},
+{
+        "name": "Daniel Drown"
+}
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/ddrown/Arduino_Clock"
+}
+}
+
